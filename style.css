@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Spirax');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+.main{
+  margin-top: ;
+  font-family: 'Noto Serif', serif;
+}
+#adjective{
+    font-family: 'Amatic SC', cursive;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: .2em;
+}
+
+#tabs,#accordion,#accordion1{
+  font-family: 'Noto Serif', serif;
+}
+
+figcaption{
+  padding-left: 500px;
+}
+.jumbotron{
+  background-color: #FCF9F9;
+}
+ ul li{
+   list-style: none;
+ }
+.line-height{
+  line-height: .5em;
+}
+
+/*.ui-widget-content{
+  background-color:#FCF9F9;
+  color:green;
+}*/
+
+.justify-align{
+  text-align: justify;
+}
+
+.footer{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: 'Spirax', cursive;
+}
